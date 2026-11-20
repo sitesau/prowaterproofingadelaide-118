@@ -1,0 +1,22 @@
+{
+  "wheel_id": 932,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-118",
+  "project": "waterproofing-contractors-adelaide-council-and-approvals-a00019",
+  "parent_t1_ref": "prowaterproofingadelaide-158",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing contractors adelaide council and approvals",
+  "intended_url": "http://waterproofing-contractors-adelaide-council-and-approvals-a00019.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "464324975263a7f6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/waterproofing-contractors-adelaide-before-you-start-3220b143b54/",
+      "anchor": "a guide to waterproofing contractors adelaide before you start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
